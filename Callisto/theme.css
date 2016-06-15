@@ -13,7 +13,41 @@ h1 {
   padding-top: 100px;
 }
 
-img{
+img {
   display: block;
   margin: auto;
+}
+
+.moon {
+  -webkit-animation: spinanim 90s infinite linear;
+     -mos-animation: spinanim 90s infinite linear;
+       -o-animation: spinanim 90s infinite linear;
+          animation: spinanim 90s infinite linear;
+}
+
+.space {
+  width: 5000px;
+  height: 5000px;
+  position: fixed;
+  top: -2500px;
+  left: -2200px;
+  background-image: url(tileable-nebula.jpg);
+  background-size: auto;
+  background-repeat: repeat;
+  -webkit-animation: spaceanim 270s infinite linear;
+     -mos-animation: spaceanim 270s infinite linear;
+       -o-animation: spaceanim 270s infinite linear;
+          animation: spaceanim 270s infinite linear;
+  z-index: -100;
+  opacity: .6;
+}
+
+@-webkit-keyframes spinanim {
+  from {-webkit-transform: rotate(0deg);}
+  to   {-webkit-transform: rotate(359deg);}
+}
+
+@-webkit-keyframes spaceanim {
+  from {-webkit-transform: rotate(0deg);}
+  to   {-webkit-transform: rotate(-359deg);}
 }
