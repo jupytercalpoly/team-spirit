@@ -18,3 +18,4 @@ Restorative - Strategic - Responsibility - Developer - Empathy
 - Cooking
 - Drawing and watercolors
 - Building and fixing things
+- Hearing and sharing bad puns
