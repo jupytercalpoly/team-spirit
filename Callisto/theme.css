@@ -1,0 +1,19 @@
+body {
+  background-color: #000000;
+}
+
+h1, h2, p {
+  margin: 50px 50px 50px 50px;
+  font-family: sans-serif;
+  color: #FFFFCC;
+  text-align: center;
+}
+
+h1 {
+  padding-top: 100px;
+}
+
+img{
+  display: block;
+  margin: auto;
+}

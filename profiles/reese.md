@@ -14,8 +14,8 @@ Restorative - Strategic - Responsibility - Developer - Empathy
 
 ### Interests
 
-- Trail running / being outside
+- Trail running, hiking, and being outside
 - Cooking
 - Drawing and watercolors
 - Building and fixing things
-
+- Hearing and sharing bad puns
